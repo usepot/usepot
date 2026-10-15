@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=iusepot&style=plastic)
+![](https://komarev.com/ghpvc/?username=usepot&style=plastic)
 
 
 <a href="https://github.com/iusepot/iusepot/raw/main/resume.pdf"><img src="https://img.shields.io/badge/RESUME-0D0D0D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0Y1MkZGIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgM3YxMiIvPjxwYXRoIGQ9Ik02IDEwbDYgNiA2LTYiLz48cGF0aCBkPSJNNCAyMWgxNiIvPjwvc3ZnPg==" alt="Download Resume" /></a>
