@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=usepot&style=plastic)
 
 
-<a href="https://github.com/iusepot/iusepot/raw/main/resume.pdf"><img src="https://img.shields.io/badge/RESUME-0D0D0D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0Y1MkZGIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgM3YxMiIvPjxwYXRoIGQ9Ik02IDEwbDYgNiA2LTYiLz48cGF0aCBkPSJNNCAyMWgxNiIvPjwvc3ZnPg==" alt="Download Resume" /></a>
+<a href="https://github.com/usepot/usepot/raw/main/resume.pdf"><img src="https://img.shields.io/badge/RESUME-0D0D0D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0Y1MkZGIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgM3YxMiIvPjxwYXRoIGQ9Ik02IDEwbDYgNiA2LTYiLz48cGF0aCBkPSJNNCAyMWgxNiIvPjwvc3ZnPg==" alt="Download Resume" /></a>
 <a href="https://namemc.com/profile/usepot.7"><img src="https://img.shields.io/badge/NAMEMC-0D0D0D?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiIGZpbGw9IiM3RjUyRkYiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHBhdGggZD0iTTAgMGg4djhIMHoiIGZpbGwtb3BhY2l0eT0iMCIvPjxwYXRoIGQ9Ik0xIDJoMnYySDF6TTUgMmgydjJINXpNMyA0aDJ2MUgzek0yIDVoNHYySDJ6TTIgN2gxdjFIMnpNNSA3aDF2MUg1eiIvPjwvc3ZnPg==" alt="NameMC" /></a>
 <img src="https://img.shields.io/badge/NOAH.KT-0D0D0D?style=flat-square&logo=discord&logoColor=7F52FF" alt="Discord: noah.kt" />
 
@@ -72,7 +72,7 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iusepot&theme=dark&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" height="165" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usepot&theme=dark&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" height="165" alt="streak stats" />
 
 </div>
 
